@@ -1,1 +1,1 @@
-def rever_each_word(string)
+def rever_each_word(sentence)
